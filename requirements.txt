@@ -1,0 +1,21 @@
+# Web Framework & Server
+Flask==3.1.0
+gunicorn==23.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+Werkzeug==3.1.0
+
+# Data Science & ML
+numpy>=1.26.4
+scipy>=1.8.1
+scikit-learn>=1.5.2
+matplotlib>=3.10.1
+pandas>=2.2.3
+joblib
+
+# Azure Monitoring & OpenTelemetry
+azure-monitor-opentelemetry>=1.6.0
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
